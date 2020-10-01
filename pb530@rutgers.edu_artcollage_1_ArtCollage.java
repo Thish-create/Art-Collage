@@ -45,7 +45,7 @@ public class ArtCollage {
                 collage.set(i,j,color);
             }
         }
-	// WRITE YOUR CODE HERE
+	
     }
 
     /*
@@ -71,7 +71,7 @@ public class ArtCollage {
                 collage.set(i,j,color);
             }
         }
-	// WRITE YOUR CODE HERE
+	
     }
 
     /*
@@ -81,7 +81,7 @@ public class ArtCollage {
      */
     public int getCollageDimension() {
         return collageDimension;
-	// WRITE YOUR CODE HERE
+	
     }
 
     /*
@@ -91,7 +91,7 @@ public class ArtCollage {
      */
     public int getTileDimension() {
         return tileDimension;
-	// WRITE YOUR CODE HERE
+	
     }
 
     /*
@@ -101,7 +101,7 @@ public class ArtCollage {
      */
     public Picture getOriginalPicture() {
         return original;
-	// WRITE YOUR CODE HERE
+	
     }
 
     /*
@@ -111,7 +111,7 @@ public class ArtCollage {
      */
     public Picture getCollagePicture() {
         return collage;
-	// WRITE YOUR CODE HERE
+	
     }
     
     /*
@@ -120,7 +120,7 @@ public class ArtCollage {
      */
     public void showOriginalPicture() {
         original.show();
-	// WRITE YOUR CODE HERE
+	
     }
 
     /*
@@ -129,7 +129,7 @@ public class ArtCollage {
      */
     public void showCollagePicture() {
         collage.show();
-	// WRITE YOUR CODE HERE
+	
     }
 
     /*
@@ -150,7 +150,7 @@ public class ArtCollage {
                 collage.set(i,j,color);
             }
         }
-	// WRITE YOUR CODE HERE
+	
     }
     
     /*
@@ -169,7 +169,7 @@ public class ArtCollage {
             }
         }
         
-    // WRITE YOUR CODE HERE
+    
  }
 
     /*
@@ -199,7 +199,7 @@ public class ArtCollage {
                 }
             }
         }
-	// WRITE YOUR CODE HERE
+	
     }
 
     /*
@@ -218,7 +218,7 @@ public class ArtCollage {
                 collage.set(i,j,gray);
             }
         }
-	// WRITE YOUR CODE HERE
+	
     }
 
 
